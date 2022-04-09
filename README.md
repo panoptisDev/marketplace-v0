@@ -5,28 +5,28 @@ ethereum-waffle chai @nomiclabs/hardhat-ethers \
 web3modal @openzeppelin/contracts ipfs-http-client \
 axios
 ```
+```
 npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+```
 ```
 npx tailwindcss init -p
 ```
+```
 npx hardhat
+```
 ```
 npx hardhat test
 ```
+```
 npx hardhat node
 ```
+```
 npx hardhat run scripts/deploy.js --network 
+```
 ```
 npx hardhat verify --network
 ```
 ```
-```
-```
-
-
-
-
-
 
 # Basic Sample Hardhat Project
 
