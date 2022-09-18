@@ -3,7 +3,7 @@
 npm install ethers hardhat @nomiclabs/hardhat-waffle
 ```
 ```
-npm install ethereum-waffle chai @nomiclabs/hardhat-ethers`
+npm install ethereum-waffle chai @nomiclabs/hardhat-ethers
 ```
 ```
 npm install web3modal @openzeppelin/contracts ipfs-http-client
