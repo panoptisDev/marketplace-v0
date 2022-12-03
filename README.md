@@ -1,4 +1,4 @@
-
+A simple working marketplace. not good, but works
 ```
 npm install ethers hardhat @nomiclabs/hardhat-waffle
 ```
