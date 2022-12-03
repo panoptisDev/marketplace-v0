@@ -30,7 +30,7 @@ yarn-error.log*
 
 # vercel
 .vercel
-
+.secret
 node_modules
 .env
 coverage
